@@ -1,0 +1,8 @@
+### dependency
+streamlit
+rapidfuzz
+pandas
+py7zr
+requests
+### local packages -
+-e . 
